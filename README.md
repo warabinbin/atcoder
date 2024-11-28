@@ -1,7 +1,7 @@
 ## AtCoder Beginner Contest
 
 | No. | Question | Result | Date |
-| --- | ---- | - | ----------- |
+| --- | ---- | ------ | ----------- |
 | 381_a | [Question](https://atcoder.jp/contests/abc381/tasks/abc381_a) | [〇](https://atcoder.jp/contests/abc381/submissions/60242413) | 11/28 |
 | 381_b | [Question](https://atcoder.jp/contests/abc381/tasks/abc381_b) | [〇](https://atcoder.jp/contests/abc381/submissions/60242547) | 11/28 |
 | 381_c | [Question](https://atcoder.jp/contests/abc381/tasks/abc381_c) | [✖](https://atcoder.jp/contests/abc381/editorial/11413) | 11/28 |
