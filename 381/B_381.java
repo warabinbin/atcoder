@@ -7,12 +7,12 @@ public class B_381 {
         Scanner sc = new Scanner(System.in);
         String S = sc.next();
 
-        if(S.length() % 2 == 1){
+        if (S.length() % 2 == 1) {
             System.out.println("No");
             return;
         }
 
-        if(!S.matches("[a-z]+")){
+        if (!S.matches("[a-z]+")) {
             System.out.println("No");
             return;
         }

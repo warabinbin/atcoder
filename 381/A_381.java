@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class A_381 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
@@ -32,7 +31,7 @@ public class A_381 {
                 return;
             }
         }
-
+        
         System.out.println("Yes");
     }
 }
